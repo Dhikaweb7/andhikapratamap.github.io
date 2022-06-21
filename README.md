@@ -9,7 +9,7 @@
 >Andhika Pratama Putra remaja yang tertarik akan teknologi informasi dan sekarang masih bersekolah di SMPN 12 GRESIK dan masih mempelajari beberapa bahasa komputer terutama web seperti HTML,CSS, Javascript dan PHP dan turut serta berkontribusi di proyek Wikipedia Indonesia terkait Teknologi Informasi dan menyukai Open Source
 
   Saya membuat Web ini dengan Github Pages 
-  <p href="#">web ini adalah web portofolio saya😃</p>
+  web ini adalah web portofolio saya😃
   website sederhana ini saya bangun 
   dengan menggunakan :
  
@@ -20,4 +20,6 @@
  `` Javascript ``
  
  `` Github Pages ``
+ 
+ Dan data statistik dari embed <b>Coderanks.io</b>
  
